@@ -7,7 +7,7 @@ A fast-food chain tested three different promotional strategies across various m
 ## Approach
 
 - **Data Overview**: The dataset consists of sales data from 548 stores, with key features such as `MarketSize`, `AgeOfStore`, `Promotion`, and `SalesInThousands`.
-- **Exploratory Data Analysis (EDA)**: Distribution of key variables (e.g., MarketSize, Age of Store) was analyzed to ensure comparability between groups.
+- **Exploratory Data Analysis (EDA)**: Distribution of key variables was analyzed to ensure comparability between groups.
 - **Hypothesis Testing**: Two-sample t-tests were used to compare the performance of the promotions:
   - **Promotion 1 vs. Promotion 2**
   - **Promotion 1 vs. Promotion 3**
